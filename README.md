@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm John Averman I am currently learning javascript.
+Hi I'm John Averman and I am currently learning javascript.
