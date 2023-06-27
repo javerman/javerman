@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm John Averman and I am currently learning javascript.
+Hi I'm John Averman and I am currently learning:
+
+Object-Oriented Programming: Java
+Web Application Development: HTML, CSS, JavaScript, Spring Boot, Vue.js
+Database Programming: JDBC, Table Design, SQL, PostgreSQL, E/R diagrams
+Development Tools and Techniques: Agile, Unit Testing (JUnit), Integration Testing, Git, IntelliJ
